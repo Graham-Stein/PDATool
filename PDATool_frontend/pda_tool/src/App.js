@@ -17,9 +17,10 @@ class App extends Component {
         <Fragment>
           <Switch>
 
+          <Route exact path = '/' component={ModuleListContainer}/>
           <Route exact path = '/api/modules' component={ModuleListContainer}/>
           <Route exact path = '/api/modules/detailed' component={ModuleListPrintContainer}/>
-    
+
 
           <Route exact path="/api/modules/:id" render = {(props) => {
             const id = props.match.params.id;
