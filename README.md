@@ -37,7 +37,7 @@ Cohort management
 ```
 
 ## Development
-We self organised around 4 sprints, focusing on particular features and functionality within the days. The days were kicked off with a stand-up to support retrospective and re-planning and closed our day with a huddle and code remerges. Our trello/kanban dynamically compared our MoSCoW requirements with our backlog/work breakdown status
+We self organised around 4 sprints, focusing on particular features and functionality within the days. The days were kicked off with a stand-up to support retrospective and re-planning and closed our day with a huddle and code remerges. Our trello/kanban dynamically compared our MoSCoW requirements with our backlog/work breakdown status.
 
 Our first exercise involved a short burst of independent research followed by a brainstorming session to determine core functionality (MVP) and data sources/approaches. The remainder of sprint 1 involved agreeing user journey/requirements and work breakdown along with laying groundwork such as creating a workflow to support code management around Github.
 
@@ -63,14 +63,14 @@ Our first exercise involved a short burst of independent research followed by a 
 ## Resources
 - Trello: https://trello.com/b/0LqjPGHZ/codeclan-team-fonz
 - GoogleDrive: https://drive.google.com/open?id=1sZuXuGju3jt_WP1-7Yevg4NOeOf0Y1Rz
-- Github: https://github.com/krismac/TeamFonz/
+- Github: https://github.com/Graham-Stein/PDATool
 
 ## Installing and running the app from Github
 - Clone the repository using git clone link
 - Install webpack using npm install webpack -g
 - Run PdaToolApplication from the PDATool_backend folder (Using IntelliJ IDEA)
 - Start the server using npm start
-- Navigate to http://localhost:3000/api/modules
+- Navigate to http://localhost:3000
 
 # Learning points
 - Consolidate our learning of vanilla JavaScript 
