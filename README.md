@@ -68,7 +68,9 @@ Our first exercise involved a short burst of independent research followed by a 
 ## Installing and running the app from Github
 - Clone the repository using git clone link
 - Install webpack using npm install webpack -g
-- Start the server using 
+- Run PdaToolApplication from the PDATool_backend folder (Using IntelliJ IDEA)
+- Start the server using npm start
+- Navigate to http://localhost:3000/api/modules
 
 # Learning points
 - Consolidate our learning of vanilla JavaScript 
