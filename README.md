@@ -83,7 +83,7 @@ Our first exercise involved a short burst of independent research followed by a 
 
 ## Submission & Presentation
 - [Rules of the Road](https://docs.google.com/document/d/1MD8Yi4hiPY5XFitAwXBfECcjO00kOQzaFoS4hIiFhRI/edit?usp=sharing)
-- [Presentation --/11/2018]() - TBC
+- [Presentation --/11/2018](https://drive.google.com/file/d/1vL5POM_cI7KVEB-uQhKVxNWPsxLRc4GI/view?usp=sharing)
 - [Code submission via Github repo]() - TBC
 - [Brief]() - TBC
 - [High level solution]() - TBC
